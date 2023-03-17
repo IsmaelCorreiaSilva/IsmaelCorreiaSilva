@@ -1,6 +1,6 @@
 ## Olá, me chamo Ismael! 
 
-Sou bacharel em Sistemas de Informação FIPP/UNOESTE. Sou paixonado por ciências e tecnologia. Atualmente estou estudando desenvolvimento aplicação backend com Java e  o padrão arquiterual de microsserviços.
+Sou bacharel em Sistemas de Informação FIPP/UNOESTE. Sou paixonado por ciências e tecnologia. Atualmente estou estudando desenvolvimento aplicação backend com Java e  o padrão arquitetural de microsserviços.
 ##
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=IsmaelCorreiaSilva&show_icons=true&theme=graywhite"/>
